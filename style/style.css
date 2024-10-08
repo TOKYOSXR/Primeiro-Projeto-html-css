@@ -214,3 +214,23 @@ p.learn-more{
     margin: 0 17rem 2.5rem 0;
     padding: 0.87rem 1.25rem 0.87rem 1.25rem;
 }
+
+.planos{
+    text-align: center;
+}
+.planos h1{
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+.planos h2{
+    font-size: 1.5rem;
+}
+
+.planos h3{
+    font-size: 1rem;
+    color: var(--color-texts);
+}
+
+.planos ul li{
+    list-style: none;
+}
